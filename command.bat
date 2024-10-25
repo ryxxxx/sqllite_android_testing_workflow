@@ -1,0 +1,1 @@
+"DEIN_ADB_VERZEICHNIS/adb.exe" exec-out run-as com.saga.gasgeraete cat "/data/data/com.saga.gasgeraete/files/gasgeraete.db" > "DIESES_VERZEICHNIS/db-file.db"
